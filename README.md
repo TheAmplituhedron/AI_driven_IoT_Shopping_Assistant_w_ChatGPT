@@ -31,3 +31,4 @@ You can inspect the MicroPython application for W5300 TOE SHIELD attached to NUC
 
 ***W5300_TOE_SHIELD***
 
+![home_image](https://www.theamplituhedron.com/projects/AI_driven_IoT_Shopping_Assistant_w_ChatGPT/Pictures/home_8.jpg)
