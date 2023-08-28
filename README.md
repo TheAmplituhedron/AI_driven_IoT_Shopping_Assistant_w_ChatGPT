@@ -24,7 +24,10 @@ The complementing e-commerce web application allows the customer to:
 - Check purchased items from previous orders
 
 You can inspect the e-commerce web application under:
+
 ***AIoT_Shopping_Assistant (E-commerce App)***
 
 You can inspect the MicroPython application for W5300 TOE SHIELD attached to NUCLEO-F439ZI under:
+
 ***W5300_TOE_SHIELD***
+
